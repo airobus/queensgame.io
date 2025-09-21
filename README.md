@@ -2,7 +2,7 @@
 
 ## 🎮 Game Overview
 
-**Enhanced Queens Game** is an innovative evolution of the classic N-Queens problem, combining traditional logic reasoning with modern visual design. This isn't just another queens game copy - it's a completely new spatial reasoning challenge experience.
+**Enhanced [Queens Game](https://queensgame.io) ** is an innovative evolution of the classic N-Queens problem, combining traditional logic reasoning with modern visual design. This isn't just another queens game copy - it's a completely new spatial reasoning challenge experience.
 
 ### ✨ Why "Enhanced"?
 
